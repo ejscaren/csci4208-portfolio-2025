@@ -2,7 +2,7 @@
 
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
-- **Name:** <Your Name>
+- **Name:** <Elliot Scarengos>
 - **Project Board (Project v2):** <paste your board URL here>
 - **Live Portfolio (GitHub Pages):** <https://USERNAME.github.io/REPO/>
 
@@ -100,4 +100,5 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
