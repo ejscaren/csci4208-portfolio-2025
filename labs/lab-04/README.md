@@ -1,6 +1,10 @@
 <h2>Reflection</h2>
 
-<br><hr><br>
+<br><hr>
+
+Pages Link: https://ejscaren.github.io/csci4208-portfolio-2025/labs/lab-04/index.html
+
+<br><hr
 
 <p>What I did in this lab was design a mini-game where you must guess a number between 0 and 999. After each guess
 you get a hint that tells you if your guess was to high or too low. Most of it was basic java and I was just learning how to 
