@@ -31,8 +31,10 @@
 | Lab-02 — CSS: Crash Course [#2](https://github.com/ejscaren/csci4208-portfolio-2025/issues/2) | `lab-02` | closed |
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/ejscaren/csci4208-portfolio-2025/issues/3) | `lab-03` | closed |
 | Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/ejscaren/csci4208-portfolio-2025/issues/6) | `lab-04` | closed |
-| Lab-05 (Alt) — JavaScript OOP + Phaser: Platformer Game [#17](https://github.com/ejscaren/csci4208-portfolio-2025/issues/17) | `lab-05` | open |
-| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#16](https://github.com/ejscaren/csci4208-portfolio-2025/issues/16) | `lab-05` | open |
+| Lab-05 (Alt) — JavaScript OOP + Phaser: Platformer Game [#19](https://github.com/ejscaren/csci4208-portfolio-2025/issues/19) | `lab-05` | open |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#18](https://github.com/ejscaren/csci4208-portfolio-2025/issues/18) | `lab-05` | closed |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#17](https://github.com/ejscaren/csci4208-portfolio-2025/issues/17) | `lab-05` | closed |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#16](https://github.com/ejscaren/csci4208-portfolio-2025/issues/16) | `lab-05` | closed |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#15](https://github.com/ejscaren/csci4208-portfolio-2025/issues/15) | `lab-05` | closed |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#14](https://github.com/ejscaren/csci4208-portfolio-2025/issues/14) | `lab-05` | closed |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#9](https://github.com/ejscaren/csci4208-portfolio-2025/issues/9) | `lab-05` | closed |
