@@ -1,4 +1,4 @@
-#Quiz Game
-
-In this lab, you will build a Quiz Game with a Leaderboard.
-See the lab document for further details. All starting files are contained within this repo.
+<h3>Reflection</h3>
+<br><hr>
+I liked this lab for its simplicity but also becasue I am interested to see what other applications this can be used for.
+<br><br>
